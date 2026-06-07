@@ -1,7 +1,4 @@
-# simplenote-to-obsidian
-Takes an entire Simplenote library and converts notes to obsidian and preserves: Tags, date created (at OS level), date modified (at OS level), and injects both those date properties into the properties tab of each not on Obsidian. Also makes sure all other formatting converts properly. 
-
-Indetail this tool does the following:
+In detail this tool does the following:
 
 - **Converts Simplenote File Formats:** Takes your Simplenote files and converts them to `.md` for Obsidian.
 
